@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Joakim. I currently study to become a Java developer which is why most of my projects are written in Java language.
+
+- 🌱 I’m currently learning SQL and noSQL (e.g. MongoDB) and embedding into Java applications
+- 🔭 I’m currently working on a to-do list (in Java) to be used as desktop version, in future it will be implemented as mobile app
+
 
 <!--
 **JBJavadev/JBJavadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
