@@ -1,7 +1,8 @@
 ### Hi there 👋
 My name is Joakim. I currently study to become a Java developer which is why most of my projects are written in Java language.
 
-- 🌱 Currently learning SQL and noSQL (e.g. MongoDB) and embedding into Java applications
+- 💡 Knowledge of implementing relational and document databases such as MySQL, MongoDB with Java
+- 🌱 Currently learning system integration for Java applications with focus on data protocols and formats, APIs, FTPs and SFTPs, JSON, XMLs
 - 🔭 Right now working on a to-do list (in Java) to be used as desktop version, in future it will be implemented as mobile app
 
 ### Badges
